@@ -15,7 +15,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author Vaio
+ * @author João Pedro Salgado
  */
 public class TesteAvaliadorTest {
     
@@ -39,7 +39,7 @@ public class TesteAvaliadorTest {
     }
 
     /**
-     * Test of main method, of class TesteAvaliador.
+     * Realiza o Teste da classe Main
      */
     @Test
     public void testMain() {
